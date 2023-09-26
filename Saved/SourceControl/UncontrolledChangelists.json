@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Shane/Documents/Unreal Projects/asssignment1/Content/blueprints/BP_Variables.uasset",
+				"D:/Users/Shane/Documents/Unreal Projects/asssignment1/Content/blueprints/BP_Hello.uasset",
+				"D:/Users/Shane/Documents/Unreal Projects/asssignment1/Content/blueprints/BP_Hello1.uasset",
+				"D:/Users/Shane/Documents/Unreal Projects/asssignment1/Content/Untitled.umap",
+				"D:/Users/Shane/Documents/Unreal Projects/asssignment1/Content/blueprints/BP_Attack.uasset"
+			]
+		}
+	]
+}
